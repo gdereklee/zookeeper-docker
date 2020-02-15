@@ -1,4 +1,4 @@
-FROM wurstmeister/base
+FROM gdereklee/base
 
 MAINTAINER gdereklee
 
